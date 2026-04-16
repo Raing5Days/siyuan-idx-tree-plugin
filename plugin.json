@@ -1,7 +1,7 @@
 {
-  "name": "idx-tree-plugin",
-  "author": "Vanessa",
-  "url": "https://github.com/Raing5Days/idx-tree-plugin",
+  "name": "siyuan-idx-tree-plugin",
+  "author": "Raing5Days",
+  "url": "https://github.com/Raing5Days/siyuan-idx-tree-plugin",
   "version": "0.6.0",
   "minAppVersion": "3.6.4",
   "backends": [
