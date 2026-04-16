@@ -1,0 +1,18 @@
+{
+  "addTopBarIcon": "使用插件添加一个顶栏按钮",
+  "cancel": "取消",
+  "save": "保存",
+  "byeMenu": "再见，菜单！",
+  "helloPlugin": "隐藏下划线文档已加载！",
+  "byePlugin": "隐藏下划线文档已卸载！",
+  "showDialog": "弹出一个对话框",
+  "getTab": "在日志中打印出已打开的所有自定义页签",
+  "removedData": "数据已删除",
+  "confirmRemove": "确认删除 ${name} 中的数据？",
+  "insertEmoji": "插入表情",
+  "removeSpace": "移除空格",
+  "settings": "设置",
+  "prefixSettings": "选择要隐藏的文档前缀：",
+  "apply": "应用",
+  "settingsApplied": "设置已应用"
+}

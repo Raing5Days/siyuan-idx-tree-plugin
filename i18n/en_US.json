@@ -1,0 +1,18 @@
+{
+  "addTopBarIcon": "Add a top bar icon by plugin",
+  "cancel": "Cancel",
+  "save": "Save",
+  "byeMenu": "Bye, Menu!",
+  "helloPlugin": "Hide Underscore Docs Loaded!",
+  "byePlugin": "Hide Underscore Docs Unloaded!",
+  "showDialog": "Show dialog",
+  "getTab": "Print out all opened custom tabs in the debugger",
+  "removedData": "Data deleted",
+  "confirmRemove": "Confirm to delete the data in ${name}?",
+  "insertEmoji": "Insert Emoji",
+  "removeSpace": "Remove Space",
+  "settings": "Settings",
+  "prefixSettings": "Select prefixes to hide:",
+  "apply": "Apply",
+  "settingsApplied": "Settings applied"
+}

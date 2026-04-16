@@ -1,0 +1,55 @@
+{
+  "name": "idx-tree-plugin",
+  "author": "Vanessa",
+  "url": "https://github.com/siyuan-note/plugin-sample",
+  "version": "0.6.0",
+  "minAppVersion": "3.6.4",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "ios",
+    "android",
+    "harmony",
+    "docker",
+    "all"
+  ],
+  "frontends": [
+    "desktop",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window",
+    "all"
+  ],
+  "disabledInPublish": false,
+  "displayName": {
+    "default": "Hide Prefix Docs",
+    "zh_CN": "隐藏前缀文档"
+  },
+  "description": {
+    "default": "Hide documents with configurable prefixes (e.g., _, ., #) in document tree",
+    "zh_CN": "在文档树中隐藏可配置前缀（如 _, ., # 等）的文档"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://ld246.com/sponsor"
+    ]
+  },
+  "keywords": [
+    "document tree",
+    "hide",
+    "filter",
+    "prefix",
+    "文档树",
+    "隐藏",
+    "前缀"
+  ]
+}
